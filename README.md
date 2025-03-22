@@ -56,12 +56,12 @@ Buka **http\://localhost:8080/** di browser untuk melihat aplikasi.
 - `src/` → Berisi kode sumber Vue.js
 - `public/` → Berisi file statis (ikon, gambar, dll.)
 - `components/` → Komponen Vue
+- `assets/` → Kumpulan assets gambar, ikon dan pages style css
 - `views/` → Halaman utama aplikasi
 
 ## 🛠 Teknologi yang Digunakan
 
-- Vue.js 3
-- Vite
+- Vue.js
 - Vanila CSS (opsional)
 - FakeStore API untuk data produk
 
