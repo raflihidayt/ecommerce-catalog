@@ -62,7 +62,7 @@ Buka **http\://localhost:8080/** di browser untuk melihat aplikasi.
 
 - Vue.js 3
 - Vite
-- Tailwind CSS (opsional)
+- Vanila CSS (opsional)
 - FakeStore API untuk data produk
 
 ##
